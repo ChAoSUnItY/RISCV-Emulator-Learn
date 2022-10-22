@@ -1,0 +1,9 @@
+# Binaries for programs and plugins
+main
+RISCV_Emulator_Learn
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
